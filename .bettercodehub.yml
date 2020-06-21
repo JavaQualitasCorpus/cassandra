@@ -1,0 +1,15 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin.*
+- ./conf.*
+- ./debian.*
+- ./doc.*
+- ./examples.*
+- ./ide.*
+- ./lib.*
+- ./pylib.*
+- ./redhat.*
+- ./test.*
+- ./tools.*
